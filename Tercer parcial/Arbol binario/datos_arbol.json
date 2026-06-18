@@ -1,3 +1,21 @@
 {
-    "valores_para_el_arbol": [50, 30, 70, 20, 40, 60, 80, 120, 1, 45, 66, 300, 9, 17]
+    "Nodos_Grafo": ["F", "A", "E", "B", "D", "C"],
+    "Nodos_Arbol": [98, 12, 3, 45, 14, 89, 56],
+    "Aristas": ["a", "b", "c", "d", "e", "f", "g", "h"],
+    "Rutas": [
+        {
+            "inicial": "A",
+            "final": "F",
+            "arista": "a",
+            "peso": 5,
+            "tiempo": 5
+        },
+        {
+            "inicial": "F",
+            "final": "B",
+            "arista": "b",
+            "peso": 3,
+            "tiempo": 2
+        }
+    ]
 }

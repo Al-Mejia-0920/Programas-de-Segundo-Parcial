@@ -1,17 +1,31 @@
 <?xml version="1.0"?>
-<Arbol>
-    <Numero>50</Numero>
-    <Numero>30</Numero>
-    <Numero>70</Numero>
-    <Numero>20</Numero>
-    <Numero>40</Numero>
-    <Numero>60</Numero>
-    <Numero>80</Numero>
-    <Numero>120</Numero>
-    <Numero>1</Numero>
-    <Numero>45</Numero>
-    <Numero>66</Numero>
-    <Numero>300</Numero>
-    <Numero>9</Numero>
-    <Numero>17</Numero>
-</Arbol>
+<ProyectoGeneral>
+    <Nodos_Grafo>
+        <Nodo>F</Nodo>
+        <Nodo>A</Nodo>
+        <Nodo>E</Nodo>
+        <Nodo>B</Nodo>
+        <Nodo>D</Nodo>
+        <Nodo>C</Nodo>
+    </Nodos_Grafo>
+    
+    <Nodos_Arbol>
+        <Numero>98</Numero>
+        <Numero>12</Numero>
+        <Numero>3</Numero>
+        <Numero>45</Numero>
+        <Numero>14</Numero>
+        <Numero>89</Numero>
+        <Numero>56</Numero>
+    </Nodos_Arbol>
+
+    <Rutas>
+        <Ruta>
+            <Inicial>A</Inicial>
+            <Final>F</Final>
+            <Arista>a</Arista>
+            <Peso>5</Peso>
+            <Tiempo>5</Tiempo>
+        </Ruta>
+    </Rutas>
+</ProyectoGeneral>

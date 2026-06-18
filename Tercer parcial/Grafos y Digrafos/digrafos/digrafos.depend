@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1781812340 source:a:\documentos\office\ipn ciencias informática\abstracción\practicas\tercer departamental\digrafos\digrafo.cpp
+	"Digrafo.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1781812340 a:\documentos\office\ipn ciencias informática\abstracción\practicas\tercer departamental\digrafos\digrafo.h
+	<string>
+	<vector>
+
+1781812340 source:a:\documentos\office\ipn ciencias informática\abstracción\practicas\tercer departamental\digrafos\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"Digrafo.h"
+

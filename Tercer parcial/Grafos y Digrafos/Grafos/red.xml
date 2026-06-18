@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <nodo id="A"/>
+    <nodo id="B"/>
+    <nodo id="C"/>
+    <nodo id="D"/>
+    <nodo id="E"/>
+    <nodo id="F"/>
+
+    <arista origen="A" destino="B" id="a" peso="4"/>
+    <arista origen="A" destino="C" id="b" peso="2"/>
+    <arista origen="B" destino="D" id="d" peso="10"/>
+    <arista origen="C" destino="E" id="e" peso="3"/>
+    <arista origen="E" destino="D" id="f" peso="4"/>
+</configuracion>

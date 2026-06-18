@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <nodo id="A"/>
+    <nodo id="B"/>
+    <nodo id="C"/>
+    <nodo id="D"/>
+    <nodo id="E"/>
+    <nodo id="F"/>
+
+    <arista origen="A" destino="B" id="a" tiempo="15" costo="250"/>
+    <arista origen="A" destino="C" id="b" tiempo="10" costo="120"/>
+    <arista origen="B" destino="D" id="d" tiempo="20" costo="400"/>
+    <arista origen="C" destino="E" id="e" tiempo="5" costo="90"/>
+    <arista origen="E" destino="D" id="f" tiempo="8" costo="150"/>
+    <arista origen="D" destino="F" id="g" tiempo="12" costo="180"/>
+</configuracion>

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1781806085 source:a:\documentos\office\ipn ciencias informática\abstracción\practicas\tercer departamental\grafos\grafo.cpp
+	"Grafo.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1781806085 a:\documentos\office\ipn ciencias informática\abstracción\practicas\tercer departamental\grafos\grafo.h
+	<string>
+	<vector>
+
+1781806085 source:a:\documentos\office\ipn ciencias informática\abstracción\practicas\tercer departamental\grafos\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"Grafo.h"
+
